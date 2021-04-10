@@ -6,3 +6,4 @@ Things to do:
 - OCR
 - scrolling input
 - Memory of previous details
+- Change liscense to GPLv3 from Apache
